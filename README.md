@@ -1,3 +1,7 @@
 # nutrition-label
  Nutrition Label
-<img src="https://raw.githubusercontent.com/CodrinGavan/nutrition-label/master/Nutrition-Label.png"/>
+ <ul>
+ <li>
+ <a href="https://codringavan.github.io/nutrition-label/">Live Preview</a>
+ </li>
+ </ul>
